@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Water
+  m_Name: WaterMat
   m_Shader: {fileID: 4800000, guid: 9cb8cfa40eea5c140ac38e2390654664, type: 3}
   m_ShaderKeywords: LPOCEAN_WAVE1
   m_LightmapFlags: 4

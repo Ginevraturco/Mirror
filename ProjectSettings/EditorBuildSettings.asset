@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/NABA/Scenes/Main_Networked.unity
+    guid: 8c868b9e694b64c49881b13b258ddfec
+  - enabled: 1
     path: Assets/NABA/Scenes/Main.unity
     guid: f728aa77c79c191449a659322647d59f
   m_configObjects: {}

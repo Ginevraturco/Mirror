@@ -21,7 +21,6 @@ public class ShipController : MonoBehaviour
         float hMove = Input.GetAxis("Horizontal");
         float vMove = Input.GetAxis("Vertical");
 
-        hMove = vMove > .1f ? hMove : 0;
         transform.Rotate(0, hMove * rotationSpeed, 0);
 
         vMove = Mathf.Clamp(vMove, 0, 1);

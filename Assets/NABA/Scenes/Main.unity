@@ -235,7 +235,7 @@ GameObject:
   - component: {fileID: 188330271}
   - component: {fileID: 188330270}
   m_Layer: 0
-  m_Name: Directional Light (1)
+  m_Name: Directional Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -794,7 +794,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 542218052}
-  m_LocalRotation: {x: 0.20648433, y: -0.24971898, z: 0.0545947, w: 0.9444703}
+  m_LocalRotation: {x: 0.20648435, y: -0.24971902, z: 0.054594714, w: 0.9444703}
   m_LocalPosition: {x: 33.6, y: 13.1, z: -24.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -818,6 +818,7 @@ MonoBehaviour:
   m_IgnoreTimeScale: 0
   m_WorldUpOverride: {fileID: 0}
   m_UpdateMethod: 2
+  m_BlendUpdateMethod: 1
   m_DefaultBlend:
     m_Style: 1
     m_Time: 2
@@ -1116,7 +1117,7 @@ GameObject:
   - component: {fileID: 620275566}
   - component: {fileID: 620275565}
   m_Layer: 0
-  m_Name: Directional Light
+  m_Name: Main Directional Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1330,7 +1331,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 740711637}
-  m_LocalRotation: {x: 0.20648433, y: -0.24971898, z: 0.0545947, w: 0.9444703}
+  m_LocalRotation: {x: 0.20648435, y: -0.24971902, z: 0.054594714, w: 0.9444703}
   m_LocalPosition: {x: 33.6, y: 13.1, z: -24.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
